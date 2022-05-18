@@ -32,7 +32,7 @@ heroku/python
 ⚠️ AFTER FORK EDIT DEPLOY BUTTON REPLACE WITH YOUR REPO LINK ⚙️
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Tamilnaducm/UPLOADER-BOT/issues/14#issuecomment-1021253536)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Tamilnaducm/UPLOADER-BOT?)
 
 
 ## 🍃 How To Get Mongodb URI - [ Watch Video ](https://youtu.be/YIYSby2PcfU)
@@ -40,7 +40,7 @@ heroku/python
 
 ## 🚸 HEROKU CLI COMMANDS
 
-`* git clone `https://github.com/Clinton-Abraham/UPLOADER-BOT.git``
+`* git clone 'https://github.com/Tamilnaducm/UPLOADER-BOT.git``
 
 `* git heroku login`
 
